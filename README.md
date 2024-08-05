@@ -12,7 +12,7 @@
 
 `POSTGRES_HOST` = localhost  
 
-`PAYMENT_PORT` = 5432
+`POSTGRES_PORT` = 5432
 
 Установить зависимости командой - `pip install -r requirements.txt`
 
